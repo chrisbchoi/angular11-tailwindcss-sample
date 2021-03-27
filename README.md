@@ -2,7 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
-This is the sample project with tailwindcss with angular 11.
+This is the sample project with tailwindcss with angular 11, and
+it is inspired by the article below.
+[Angular 11 + Tailwindcss 2.0 = Blazing Fast](https://medium.com/tunaiku-tech/angular-11-tailwindcss-2-0-blazing-fast-cfa20ae3a5e9)
 
 ## to reduce the production size, run 
 `
